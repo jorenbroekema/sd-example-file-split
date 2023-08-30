@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6be618dc1cae3215f1793c74e72f3095e4de3527",
+    "name": "Light",
+    "group": "Mode",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "semantic/ui": "source",
+      "mode/light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "28983d638284cad3d6ad7965ac4046e1f48f6588",
+    "name": "Dark",
+    "group": "Mode",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "semantic/ui": "source",
+      "mode/dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b9044e7127c42c03f6ced3054e403dd2a3a6e235",
+    "name": "RedPlanet",
+    "group": "Brands",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "semantic/ui": "source",
+      "brands/RedPlanet": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "7ce36e29dfe536b40115230cf3b7dcfa5f532f8c",
+    "name": "YellowCab",
+    "group": "Brands",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "semantic/ui": "source",
+      "brands/YellowCab": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

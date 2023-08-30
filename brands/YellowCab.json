@@ -1,0 +1,8 @@
+{
+  "notifications": {
+    "borderRadius": {
+      "value": "20px",
+      "type": "sizing"
+    }
+  }
+}

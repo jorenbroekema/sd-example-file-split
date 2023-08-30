@@ -1,0 +1,25 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 30 Aug 2023 20:20:04 GMT
+ */
+
+:root {
+  --sdColorsBlue100: #ebf8ff;
+  --sdColorsBlue200: #bee3f8;
+  --sdColorsBlue300: #90cdf4;
+  --sdColorsBlue400: #63b3ed;
+  --sdColorsBlue500: #4299e1;
+  --sdColorsBlue600: #3182ce;
+  --sdColorsBlue700: #2b6cb0;
+  --sdColorsBlue800: #2c5282;
+  --sdColorsBlue900: #2a4365;
+  --sdColorsRed100: #fff5f5;
+  --sdColorsRed200: #fed7d7;
+  --sdColorsRed300: #feb2b2;
+  --sdColorsRed400: #fc8181;
+  --sdColorsRed500: #f56565;
+  --sdColorsRed600: #e53e3e;
+  --sdColorsRed700: #c53030;
+  --sdColorsRed800: #9b2c2c;
+  --sdColorsRed900: #742a2a;
+}

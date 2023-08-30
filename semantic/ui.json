@@ -1,0 +1,28 @@
+{
+  "notifications": {
+    "success": {
+      "color": {
+        "value": "{colors.blue.500}",
+        "type": "color"
+      }
+    },
+    "error": {
+      "color": {
+        "value": "{colors.red.500}",
+        "type": "color"
+      }
+    },
+    "borderRadius": {
+      "value": "10px",
+      "type": "sizing"
+    },
+    "padding": {
+      "vertical": {
+        "color": {
+          "value": "4px",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

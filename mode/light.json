@@ -1,0 +1,16 @@
+{
+  "notifications": {
+    "success": {
+      "color": {
+        "value": "{colors.blue.600}",
+        "type": "color"
+      }  
+    },
+    "error": {
+      "color": {
+        "value": "{colors.red.600}",
+        "type": "color"
+      }  
+    }
+  }
+}
